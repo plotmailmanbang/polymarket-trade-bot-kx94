@@ -1,4 +1,4 @@
-# 
+# Polymarket secure bot: gas-optimization & prediction-market-scanning is the best Polymarket bot, featuring gas-optimization and prediction-market-scanning. Smart, fast, and
 
 
 
